@@ -1,16 +1,18 @@
-### Hi there 👋
+## [Dinuka Denuwan]
+[![Your Profile Picture](URL_to_your_profile_picture)]
 
-<!--
-**DinukaDenuwan/DinukaDenuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm [Dinuka]. 
 
-Here are some ideas to get you started:
+🚀 I'm a [Software engineer] passionate about [FrontEnd develop].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I'm based in [Colombo].
+
+🌱 I'm currently working on [React].
+
+👯 I'm open to collaborations and always eager to learn from the community.
+
+💬 Ask me about [Andriod(Java)].
+
+⚡ Fun fact: [Fun world].
+
+
