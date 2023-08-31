@@ -13,6 +13,6 @@
 
 💬 Ask me about [Andriod(Java)].
 
-⚡ Fun fact: [Fun world].
+
 
 
